@@ -1,8 +1,8 @@
-import characterSmAtifacts from 'aizaworld/sm-contracts/Characters'
-import inoSmAtifacts from 'aizaworld/sm-contracts/INO'
-import nftMarketSmAtifacts from 'aizaworld/sm-contracts/NFTMarket'
-import priceOracleSmAtifacts from 'aizaworld/sm-contracts/PriceOracle'
-import supplyBoxSmAtifacts from 'aizaworld/sm-contracts/SupplyBoxs'
+import characterSmAtifacts from './sm-contracts/Characters'
+import inoSmAtifacts from './sm-contracts/INO'
+import nftMarketSmAtifacts from './sm-contracts/NFTMarket'
+import priceOracleSmAtifacts from './sm-contracts/PriceOracle'
+import supplyBoxSmAtifacts from './sm-contracts/SupplyBoxs'
 
 const characterSmABI = characterSmAtifacts.abi
 const characterSmAdresses = characterSmAtifacts.networks

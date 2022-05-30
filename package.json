@@ -1,0 +1,30 @@
+{
+  "name": "@aizaworld/sm-contracts",
+  "version": "1.0.0",
+  "description": "NFT, GameFi, Blockchain, Dapp, LoanForPlay, PlayToEarn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-ht/sm-contracts.git"
+  },
+  "keywords": [
+    "NFT",
+    "NFT",
+    "MarketPlace",
+    "GameFi",
+    "Blockchain",
+    "Dapp",
+    "LoanForPlay",
+    "PlayToEarn"
+  ],
+  "author": "JackNguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jack-ht/sm-contracts/issues"
+  },
+  "homepage": "https://github.com/jack-ht/sm-contracts#readme"
+}

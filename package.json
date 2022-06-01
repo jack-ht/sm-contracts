@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\"",
-    "publish": "np",
+    "publish": "np --any-branch",
     "publishFirst": "npm publish --access public"
   },
   "repository": {

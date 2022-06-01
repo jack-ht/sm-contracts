@@ -1,15 +1,19 @@
 {
   "name": "aizaworld_sdk",
-  "version": "1.0.2",
+  "version": "1.0.10",
   "description": "NFT, GameFi, Blockchain, Dapp, LoanForPlay, PlayToEarn",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\"",
-    "publish": "npm publish --access public"
+    "publish": "np --any-branch",
+    "publishFirst": "npm publish --access public"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jack-ht/sm-contracts.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "NFT",

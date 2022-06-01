@@ -1,6 +1,6 @@
 {
   "name": "aizaworld_sdk",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "NFT, GameFi, Blockchain, Dapp, LoanForPlay, PlayToEarn",
   "main": "index.js",
   "scripts": {
